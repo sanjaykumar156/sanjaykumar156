@@ -49,7 +49,7 @@ Programmer | Content Creator | Learner
 ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=sanjaykumar156.visitor-badge&left_color=blue&right_color=yellow)
 <br />
 
-[![Mahbub's github activity graph](https://activity-graph.heroku.app/graph?username=sanjaykumar156&bg_color=ffffff&color=777777&line=ff5200&point=1adbce&area=true&hide_border=true)](https://github.com/sanjaykumar156/github-readme-activity-graph)
+[![Sanjay kumar github activity graph](https://activity-graph.heroku.app/graph?username=sanjaykumar156&bg_color=ffffff&color=777777&line=ff5200&point=1adbce&area=true&hide_border=true)](https://github.com/sanjaykumar156/github-readme-activity-graph)
 
 
 <h3 align="left">Languages and Tools:</h3>
@@ -61,7 +61,7 @@ Programmer | Content Creator | Learner
 
 # 🏅 Certificates:
 <p>
-Udemy Url: https://www.udemy.com/certificate/UC-9847db74-686b-4fef-9466-f4c993da9a03
+Udemy Url: https://udemy-certificate.s3.amazonaws.com/pdf/UC-8aa2c609-9afe-44e1-8533-828b827a6ab9.pdf
 <img width="494" align="center" src="https://raw.githubusercontent.com/sanjaykumar156/sanjaykumar156/main/Certificates/GitandGithub.jpg" alt="Sanjay kumar" />
 <img width="494" align="center" src="https://raw.githubusercontent.com/sanjaykumar156/sanjaykumar156/main/Certificates/Touch-Typing.jpg" alt="Sanjay kumar" />
 </p>
