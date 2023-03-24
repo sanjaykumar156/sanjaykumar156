@@ -1,4 +1,4 @@
-<h1 align="center">Hi <img src="https://th.bing.com/th/id/OIP.CBNlx5UfJq78foZhpVDcjQHaFs?pid=ImgDet&rs=1" height="55px" width="55px">, I'm Sanja kumar</h1>
+<h1 align="center">Hi <img src="https://th.bing.com/th/id/OIP.CBNlx5UfJq78foZhpVDcjQHaFs?pid=ImgDet&rs=1" height="55px" width="55px">, I'm Sanjay kumar</h1>
 <h3 align="center">¯\_(ツ)_/¯
 
 Automation tester | Learner |
