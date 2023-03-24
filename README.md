@@ -3,7 +3,7 @@
 
 Automation tester | Learner |
 
-?></h3>
+my self</h3>
 
 
 - 🔭 I’m currently working as **intern**
