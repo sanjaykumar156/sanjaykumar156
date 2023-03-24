@@ -28,6 +28,12 @@ Automation tester | Learner |
 [<img align="left" alt="Sanjay kumar | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
+
+### 🛠 &nbsp;Tech Stack
+![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
+<br />
 ### Profile Visitors 
 ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=sanjaykumar156.visitor-badge&left_color=blue&right_color=yellow)
 <br />
