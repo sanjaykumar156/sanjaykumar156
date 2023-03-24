@@ -46,7 +46,7 @@ Automation tester | Learner |
 
 <p><img width="494" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sanjaykumar156&show_icons=true&locale=en&layout=compact" alt="Sanjay kumar" /></p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=sanjay kumar156&show_icons=true&locale=en" alt="Sanjay kumar" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=sanjaykumar156&show_icons=true&locale=en" alt="Sanjay kumar" /></p>
 
 # 🏅 Certificates:
 <p>
