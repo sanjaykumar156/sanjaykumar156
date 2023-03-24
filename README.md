@@ -58,8 +58,6 @@ Programmer | Content Creator | Learner
 # 🏅 Certificates:
 <p>
 Udemy Url: https://udemy-certificate.s3.amazonaws.com/pdf/UC-8aa2c609-9afe-44e1-8533-828b827a6ab9.pdf
-<img width="494" align="center" src="https://raw.githubusercontent.com/sanjaykumar156/sanjaykumar156/main/Certificates/GitandGithub.jpg" alt="Sanjay kumar" />
-<img width="494" align="center" src="https://raw.githubusercontent.com/sanjaykumar156/sanjaykumar156/main/Certificates/Touch-Typing.jpg" alt="Sanjay kumar" />
 </p>
 
 
