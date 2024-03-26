@@ -10,7 +10,7 @@ my self</h3>
 
 - 🌱 I’m currently learning **Automation testing**
 
-- 👯 I’m looking to collaborate on **Open Source**
+- 👯 I’m currently looking for **software testing roles**
 
 - 💬 Ask me about **Anything**
 
