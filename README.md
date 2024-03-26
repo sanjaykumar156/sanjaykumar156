@@ -51,6 +51,8 @@ my self</h3>
 # 🏅 Certificates:
 <p>
 Udemy Url: https://udemy-certificate.s3.amazonaws.com/pdf/UC-8aa2c609-9afe-44e1-8533-828b827a6ab9.pdf
+Cognizant internship: https://docs.google.com/document/d/1Q8dTC7lJumSl_4AWu-nl0RDyy2DLBa03bN4H7-rjBzY/edit?usp=sharing
+
 </p>
 
 
