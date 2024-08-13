@@ -3,20 +3,9 @@
 
 Automation tester | Learner |
 
-my self</h3>
+Who Am I?</h3>
 
-
-- 🔭 I’m currently working as **intern**
-
-- 🌱 I’m currently learning **Automation testing**
-
-- 👯 I’m currently looking for **software testing roles**
-
-- 💬 Ask me about **Anything**
-
-- 📫 How to reach me **tanguturisanjayk@gmail.com**
-
-- ⚡ Fun fact **I can provide you cookies for free to eat 🍪😂**
+I am a passionate and detail-oriented software tester with a fresh perspective on quality assurance. My goal is to ensure that software products meet the highest standards of quality before reaching the end user. I have hands-on experience with various testing methodologies, tools, and frameworks, and I’m eager to apply my skills in real-world projects.
 
 ### Connect with me:
 
@@ -42,7 +31,7 @@ my self</h3>
 
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.selenium.dev/" target="_blank"> <img src="https://avatars.githubusercontent.com/u/983927?s=280" alt="selenium" width="40" height="40"/> </a> <a href="https://www.java.com/en/" target="_blank"> <img src="https://logos-marques.com/wp-content/uploads/2021/03/Java-Logo.png" alt="java" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://testng.org/doc/" target="_blank"> <img src="https://th.bing.com/th/id/OIP.vGN8gQ3nXrKGqI7ykP2gZQHaEK?pid=ImgDet&rs=1" alt="testNG" width="40" height="40"/> </a> <a href=https://maven.apache.org/ " target="_blank"> <img src="https://egkatzioura.files.wordpress.com/2020/05/maven.logo_.png" alt="maven" width="40" height="40"/> </a> <a href="https://cucumber.io/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://cucumber.io/" target="_blank"> <img src="https://th.bing.com/th/id/OIP.uI7AdaNuyeVYwTcNuntoTgHaIh?pid=ImgDet&w=1067&h=1229&rs=1" alt="BDDcucumber" width="40" height="40"/> </a> </p>
+<p align="left"> <a Testing: [Manual, Automated, Exploratory]/> </a> <a Tools: [Selenium, QTP, LoadRunner, TestNG]/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://testng.org/doc/" target="_blank"> <img src="https://th.bing.com/th/id/OIP.vGN8gQ3nXrKGqI7ykP2gZQHaEK?pid=ImgDet&rs=1" alt="testNG" width="40" height="40"/> </a> <a href=https://maven.apache.org/ " target="_blank"> <img src="https://egkatzioura.files.wordpress.com/2020/05/maven.logo_.png" alt="maven" width="40" height="40"/> </a> <a href="https://cucumber.io/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://cucumber.io/" target="_blank"> <img src="https://th.bing.com/th/id/OIP.uI7AdaNuyeVYwTcNuntoTgHaIh?pid=ImgDet&w=1067&h=1229&rs=1" alt="BDDcucumber" width="40" height="40"/> </a> </p>
 
 <p><img width="494" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sanjaykumar156&show_icons=true&locale=en&layout=compact" alt="Sanjay kumar" /></p>
 
