@@ -31,7 +31,7 @@ I am a passionate and detail-oriented software tester with a fresh perspective o
 
 
 <h3 align="left">🔧 Skills & Expertise:</h3>
-Testing: [Manual, Automated, Exploratory]
+<p> Testing: [Manual, Automated, Exploratory]</p>
 Tools: [Selenium, QTP, LoadRunner, TestNG]
 Languages: [Java, Python, Ruby]
 Tools for Collaboration: [JIRA, Confluence, Slack] </p>
