@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **sanjaytanguturi37@gmail.com**
 
-- 📄 Know about my experiences [www.linkedin.com/in/ sanjay-kumar-99648017a](www.linkedin.com/in/ sanjay-kumar-99648017a)
+- 📄 Know about my experiences [[www.linkedin.com/in/ sanjay-kumar-99648017a](https://www.linkedin.com/in/sanjay-kumar-99648017a/)](www.linkedin.com/in/ sanjay-kumar-99648017a)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
