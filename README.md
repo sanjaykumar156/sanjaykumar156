@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/sanjayk93932820" target="blank"><img src="https://img.shields.io/twitter/follow/sanjayk93932820?logo=twitter&style=for-the-badge" alt="sanjayk93932820" /></a> </p>
 
-- 🌱 I’m currently learning **Automation testing**
+- 🌱 **QA Automation tester**
 
 - 👨‍💻 All of my projects are available at [https://github.com/sanjaykumar156](https://github.com/sanjaykumar156)
 
