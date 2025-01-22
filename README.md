@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/sanjaykumar156](https://github.com/sanjaykumar156)
 
-- 💬 Ask me about **Selenium,testNG,Maven,Java**
+- 💬 Ask me about **QA AUTOMATION**
 
 - 📫 How to reach me **sanjaytanguturi37@gmail.com**
 
