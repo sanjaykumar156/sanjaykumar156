@@ -14,6 +14,7 @@
 - 💬 Ask me about **QA AUTOMATION**
 
 - 📫 How to reach me **sanjaytanguturi37@gmail.com**
+**tanguturisanjayk@gmail.com**
 
 - 📄 Know about my experiences www.linkedin.com/in/sanjay-kumar-tanguturi-99648017a
 
