@@ -1,35 +1,76 @@
-<h1 align="center">Hi 👋, I'm sanjay kumar</h1>
-<h3 align="center">A passionate QA Tester from India</h3>
+# Hi there, I'm Sanjay Kumar! 👋
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sanjaykumar156&label=Profile%20views&color=0e75b6&style=flat" alt="sanjaykumar156" /> </p>
+Welcome to my GitHub profile!  
+I am an enthusiastic **Automation Tester** skilled in **Selenium, Java, TestNG, Maven**, and more.
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sanjaykumar156" alt="sanjaykumar156" /></a> </p>
+---
 
-<p align="left"> <a href="https://twitter.com/sanjayk93932820" target="blank"><img src="https://img.shields.io/twitter/follow/sanjayk93932820?logo=twitter&style=for-the-badge" alt="sanjayk93932820" /></a> </p>
+## ✨ About Me
+- **Automation Tester** | **Manual Tester**
+- Passionate about solving real-world problems through automation.
+- Strong believer in continuous learning and improvement.
+- Building real-world projects in QA automation frameworks.
 
-- 🌱 **QA Automation tester**
+---
 
-- 👨‍💻 All of my projects are available at [https://github.com/sanjaykumar156](https://github.com/sanjaykumar156)
+## 🛠️ Skills
 
-- 💬 Ask me about **QA AUTOMATION**
-
-- 📫 How to reach me **sanjaytanguturi37@gmail.com**
-**tanguturisanjayk@gmail.com**
-
-- 📄 Know about my experiences www.linkedin.com/in/sanjay-kumar-tanguturi-99648017a
-
-<h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/sanjayk93932820" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sanjayk93932820" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/sanjay kumar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sanjay kumar" height="30" width="40" /></a>
-<a href="https://instagram.com/_mr.__.royal_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_mr.__.royal_" height="30" width="40" /></a>
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TestNG-FF6F00?style=for-the-badge&logo=testng&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white"/>
+  <img src="https://img.shields.io/badge/RestAssured-16A085?style=for-the-badge&logoColor=white"/>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> <a href="https://zapier.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/zapier/zapier-icon.svg" alt="zapier" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sanjaykumar156&show_icons=true&locale=en&layout=compact" alt="sanjaykumar156" /></p>
+## 🛠️ Tools & Technologies
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sanjaykumar156&show_icons=true&locale=en" alt="sanjaykumar156" /></p>
+<p align="left">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white"/>
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sanjaykumar156&" alt="sanjaykumar156" /></p>
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sanjaykumar156&show_icons=true&theme=default" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sanjaykumar156&theme=default" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanjaykumar156&layout=compact&theme=default" alt="Top Languages" />
+</p>
+
+---
+
+## 🐍 Contribution Snake
+
+![snake gif](https://raw.githubusercontent.com/sanjaykumar156/sanjaykumar156/output/github-contribution-grid-snake.svg)
+
+---
+
+## 🔗 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sanjay-kumar-99648017a/)
+[![GitHub](https://img.shields.io/badge/GitHub-black?style=flat&logo=github&logoColor=white)](https://github.com/sanjaykumar156)
+
+---
+
+## ✍️ Quote of the Day
+
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
+
+---
+
+## ✨ Visitors Count
+
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=sanjaykumar156.sanjaykumar156)
