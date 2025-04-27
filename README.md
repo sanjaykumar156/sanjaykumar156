@@ -60,7 +60,7 @@ I am an enthusiastic **Automation Tester** skilled in **Selenium, Java, TestNG, 
 
 ## 🔗 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sanjay-kumar-99648017a/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](www.linkedin.com/in/sanjay-kumar-tanguturi-99648017a)
 [![GitHub](https://img.shields.io/badge/GitHub-black?style=flat&logo=github&logoColor=white)](https://github.com/sanjaykumar156)
 
 ---
