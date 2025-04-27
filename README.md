@@ -73,4 +73,4 @@ I am an enthusiastic **Automation Tester** skilled in **Selenium, Java, TestNG, 
 
 ## ✨ Visitors Count
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=sanjaykumar156.sanjaykumar156)
+![Profile Views](https://komarev.com/ghpvc/?username=sanjaykumar156&color=blue&style=flat)
