@@ -54,7 +54,7 @@ I am an enthusiastic **Automation Tester** skilled in **Selenium, Java, TestNG, 
 
 ## 🐍 Contribution Snake
 
-![Contribution Snake](./github-contribution-grid-snake.svg)
+![Contribution Snake](https://raw.githubusercontent.com/sanjaykumar156/sanjaykumar156/output/github-contribution-grid-snake.svg)
 
 ---
 
