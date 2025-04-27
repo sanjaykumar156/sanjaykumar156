@@ -36,19 +36,19 @@ I am an enthusiastic **Automation Tester** skilled in **Selenium, Java, TestNG, 
 
 ---
 
-## 📈 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sanjaykumar156&show_icons=true&theme=default" alt="GitHub Stats" />
-</p>
+## GitHub Stats
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=sanjaykumar156&show_icons=true&count_private=true&hide_title=true&theme=radical)
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sanjaykumar156&theme=default" alt="GitHub Streak" />
-</p>
+## Top Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sanjaykumar156&layout=compact&theme=radical)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanjaykumar156&layout=compact&theme=default" alt="Top Languages" />
-</p>
+## Contribution Streak
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sanjaykumar156&theme=radical)
+
+## GitHub Trophies
+![trophy](https://github-profile-trophy.vercel.app/?username=sanjaykumar156&theme=juicyfresh&row=1&column=3&margin-w=15&margin-h=15)
+
 
 ---
 
