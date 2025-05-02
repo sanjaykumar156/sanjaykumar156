@@ -58,6 +58,8 @@ I am an enthusiastic **Automation Tester** skilled in **Selenium, Java, TestNG, 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sanjay-kumar-tanguturi-99648017a)
 [![GitHub](https://img.shields.io/badge/GitHub-black?style=flat&logo=github&logoColor=white)](https://github.com/sanjaykumar156)
 
+### 📸 Follow me on Instagram
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=instagram&logoColor=white)](https://www.instagram.com/_mr.__.royal_/)
 ---
 
 ## ✍️ Quote of the Day
